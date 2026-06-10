@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+
+title: HAL-Ops
+description: Project documentation and information
+show_downloads: true
+github:
+  url: https://github.com/joep100/hal-ops
